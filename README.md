@@ -1,5 +1,5 @@
-<h1 >Rodrigo Coelho</h1>
-
+<h1> Rodrigo Coelho </h1>
+<h3> I'm a Computer Science student at FCUP </h3>
 
 <!--
 **Cyber-Dragon-18/Cyber-Dragon-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
