@@ -82,7 +82,7 @@ Bioinformatics and molecular dynamics, from simulating proteins to analysing bio
 📍 Porto, Portugal · [rodrimcoelho@gmail.com](mailto:rodrimcoelho@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cyber--Dragon--18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyber-Dragon-18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rodrigo-coelho-8b5222277/)
 [![Email](https://img.shields.io/badge/Email-rodrimcoelho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrimcoelho@gmail.com)
 
 <div align="center">
