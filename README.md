@@ -19,6 +19,7 @@ Computer science graduate, now doing a master's in **bioinformatics** at the [Un
 |---|---|---|
 | [**Logistics App for AEFCUP**](https://github.com/Cyber-Dragon-18/Logistica-AEFCUP) | Logistics management app: requests, shifts and attendance | Go, PostgreSQL |
 | [**Mychorrhiza**](https://github.com/Cyber-Dragon-18/Mychorrhiza) | 2D platformer inspired by Hollow Knight with an earth theme | Unity, C# |
+| **GridLock** | Self-hosted cloud platform built from scratch on OpenStack: six Flask microservices (auth, storage, data normalization, databases, containers, compute) with a web dashboard | Python, Flask, OpenStack, Docker, GCP |
 | **Smart bookshelf** *(in development)* | Catalogues my books and connects to hardware on the shelf | Go, PostgreSQL |
 
 ## 🕒 Latest repositories
@@ -65,8 +66,13 @@ Bioinformatics and molecular dynamics, from simulating proteins to analysing bio
 ![AMBER](https://img.shields.io/badge/AMBER-2f5fa8?style=for-the-badge)
 ![Protein Data Bank](https://img.shields.io/badge/Protein_Data_Bank-b8325a?style=for-the-badge)
 
-**Databases, tools and engines**<br>
+**Cloud, databases, tools and engines**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
