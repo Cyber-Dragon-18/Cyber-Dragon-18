@@ -70,17 +70,6 @@ Bioinformatics and molecular dynamics, from simulating proteins to analysing bio
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🐍 Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyber-Dragon-18/Cyber-Dragon-18/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyber-Dragon-18/Cyber-Dragon-18/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Cyber-Dragon-18/Cyber-Dragon-18/output/github-snake.svg">
-</picture>
-
-</div>
 
 ## 📫 Contact
 
