@@ -22,13 +22,6 @@ Computer science graduate, now doing a master's in **bioinformatics** at the [Un
 | **GridLock** | Self-hosted cloud platform built from scratch on OpenStack: six Flask microservices (auth, storage, data normalization, databases, containers, compute) with a web dashboard | Python, Flask, OpenStack, Docker, GCP |
 | **Smart bookshelf** *(in development)* | Catalogues my books and connects to hardware on the shelf | Go, PostgreSQL |
 
-## 🕒 Latest repositories
-
-<!-- LATEST-REPOS:START -->
-| Repository | Description | Language | Last push |
-|---|---|---|---|
-| *Updates automatically once the GitHub Action runs* | | | |
-<!-- LATEST-REPOS:END -->
 
 ## 🎓 Education
 
