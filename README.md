@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0F6B63&center=true&vCenter=true&width=520&lines=Computer+science+graduate;Bioinformatics+MSc+%40+FCUP;I+build+with+Go%2C+PostgreSQL+and+Unity;Based+in+Porto%2C+Portugal)](https://github.com/Cyber-Dragon-18)
 
-🟧🟥🟩🟦 🟧🟦🟥🟥 🟧🟦🟩🟩 🟧🟥🟩🟦 🟧🟦🟦🟧 🟧🟦🟧🟥 🟧🟦🟥🟥
 
 ![Profile views](https://komarev.com/ghpvc/?username=Cyber-Dragon-18&label=Profile+views&color=0f6b63&style=flat)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -30,17 +29,6 @@ Computer science graduate, now doing a master's in **bioinformatics** at the [Un
 
 - **MSc Bioinformatics**, FCUP (in progress)
 - **BSc Computer Science**: algorithms, machine learning, AI, computability and complexity, large-scale data science, decision support methods
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyber-Dragon-18&show_icons=true&hide_border=true&bg_color=0:0f6b63&title_color=0f6b63&icon_color=2f5fa8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dragon-18&layout=compact&hide_border=true&title_color=0f6b63" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Cyber-Dragon-18&hide_border=true&ring=0f6b63&fire=d9822b&currStreakLabel=0f6b63" alt="GitHub streak" />
-
-</div>
 
 ## 📫 Contact
 
