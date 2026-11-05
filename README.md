@@ -1,86 +1,86 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f6b63,100:2f5fa8&height=190&section=header&text=Rodrigo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e0d,100:3ddc97&height=170&section=header&text=Rodrigo&fontSize=60&fontColor=d6e4dc&fontAlignY=38&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0F6B63&center=true&vCenter=true&width=520&lines=Computer+science+graduate;Bioinformatics+MSc+%40+FCUP;I+build+with+Go%2C+PostgreSQL+and+Unity;Based+in+Porto%2C+Portugal)](https://github.com/Cyber-Dragon-18)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=3DDC97&center=true&vCenter=true&width=560&lines=$+whoami;Computer+science+graduate;Bioinformatics+MSc+%40+FCUP;Go%2C+Python%2C+Unity+and+cloud;Based+in+Porto%2C+Portugal)](https://cyber-dragon-18.github.io)
 
 🟧🟥🟩🟦 🟧🟦🟥🟥 🟧🟦🟩🟩 🟧🟥🟩🟦 🟧🟦🟦🟧 🟧🟦🟧🟥 🟧🟦🟥🟥
 
-![Profile views](https://komarev.com/ghpvc/?username=Cyber-Dragon-18&label=Profile+views&color=0f6b63&style=flat)
+[![Website](https://img.shields.io/badge/website-cyber--dragon--18.github.io-111917?style=flat-square&logo=githubpages&logoColor=3ddc97)](https://cyber-dragon-18.github.io)
+[![CV](https://img.shields.io/badge/cv-download_pdf-111917?style=flat-square&logo=readthedocs&logoColor=3ddc97)](https://cyber-dragon-18.github.io/cv.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-111917?style=flat-square&logoColor=3ddc97)](https://www.linkedin.com/in/rodrigo-coelho-8b5222277/)
+[![Email](https://img.shields.io/badge/email-rodrimcoelho@gmail.com-111917?style=flat-square&logo=gmail&logoColor=3ddc97)](mailto:rodrimcoelho@gmail.com)
+
 </div>
 
-## 👋 About me
+```bash
+rodrigo@porto:~$ whoami
+Rodrigo, computer science graduate
 
-Computer science graduate, now doing a master's in **bioinformatics** at the [University of Porto (FCUP)](https://ciencias.up.pt). I like building tools that solve real problems, from student logistics to games.
+rodrigo@porto:~$ cat now.txt
+MSc in Bioinformatics @ University of Porto (FCUP)
+I build tools that solve real problems, from student logistics to games and cloud platforms.
+```
 
-## 🚀 Projects
+## $ projects
 
 | Project | What it is | Stack |
 |---|---|---|
 | [**Logistics App for AEFCUP**](https://github.com/Cyber-Dragon-18/Logistica-AEFCUP) | Logistics management app: requests, shifts and attendance | Go, PostgreSQL |
 | [**Mychorrhiza**](https://github.com/Cyber-Dragon-18/Mychorrhiza) | 2D platformer inspired by Hollow Knight with an earth theme | Unity, C# |
-| [**GridLock**](https://github.com/Cyber-Dragon-18/GridLock.git) | Self-hosted cloud platform built from scratch on OpenStack: six Flask microservices (auth, storage, data normalization, databases, containers, compute) with a web dashboard | Python, Flask, OpenStack, Docker, GCP |
-| [**RallyPaper**](https://github.com/Cyber-Dragon-18/RallyPaper.git) | App for support of the activity, for points distribution | Go, PostgreSQL | 
+| [**GridLock**](https://github.com/Cyber-Dragon-18/GridLock) | Self-hosted cloud platform on OpenStack: six Flask microservices with a web dashboard | Python, Flask, OpenStack, Docker, GCP |
+| [**RallyPaper**](https://github.com/Cyber-Dragon-18/RallyPaper) | Mobile-first app for a city rally event: team scoring, clues and judge scorecards | Go, PostgreSQL |
 | **Smart bookshelf** *(in development)* | Catalogues my books and connects to hardware on the shelf | Go, PostgreSQL |
 
+More details on [my website](https://cyber-dragon-18.github.io).
 
-## 🎓 Education
+## $ stack
+
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-111917?style=flat-square&logo=python&logoColor=3ddc97)
+![C](https://img.shields.io/badge/C-111917?style=flat-square&logo=c&logoColor=3ddc97)
+![Java](https://img.shields.io/badge/Java-111917?style=flat-square&logo=openjdk&logoColor=3ddc97)
+![Go](https://img.shields.io/badge/Go-111917?style=flat-square&logo=go&logoColor=3ddc97)
+![Haskell](https://img.shields.io/badge/Haskell-111917?style=flat-square&logo=haskell&logoColor=3ddc97)
+![C#](https://img.shields.io/badge/C%23-111917?style=flat-square&logo=csharp&logoColor=3ddc97)
+![JavaScript](https://img.shields.io/badge/JavaScript-111917?style=flat-square&logo=javascript&logoColor=3ddc97)
+![Assembly](https://img.shields.io/badge/Assembly-111917?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-111917?style=flat-square&logo=postgresql&logoColor=3ddc97)
+
+**Web**<br>
+![HTML5](https://img.shields.io/badge/HTML5-111917?style=flat-square&logo=html5&logoColor=3ddc97)
+![CSS3](https://img.shields.io/badge/CSS3-111917?style=flat-square&logo=css3&logoColor=3ddc97)
+![React](https://img.shields.io/badge/React-111917?style=flat-square&logo=react&logoColor=3ddc97)
+![Next.js](https://img.shields.io/badge/Next.js-111917?style=flat-square&logo=nextdotjs&logoColor=3ddc97)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111917?style=flat-square&logo=tailwindcss&logoColor=3ddc97)
+
+**Terminal and systems**<br>
+![Bash](https://img.shields.io/badge/Bash-111917?style=flat-square&logo=gnubash&logoColor=3ddc97)
+![Linux](https://img.shields.io/badge/Linux-111917?style=flat-square&logo=linux&logoColor=3ddc97)
+![Git](https://img.shields.io/badge/Git-111917?style=flat-square&logo=git&logoColor=3ddc97)
+
+**Bioinformatics**<br>
+![VMD](https://img.shields.io/badge/VMD-111917?style=flat-square)
+![AMBER](https://img.shields.io/badge/AMBER-111917?style=flat-square)
+![Protein Data Bank](https://img.shields.io/badge/Protein_Data_Bank-111917?style=flat-square)
+
+**Cloud, databases and tools**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111917?style=flat-square&logo=postgresql&logoColor=3ddc97)
+![Flask](https://img.shields.io/badge/Flask-111917?style=flat-square&logo=flask&logoColor=3ddc97)
+![Docker](https://img.shields.io/badge/Docker-111917?style=flat-square&logo=docker&logoColor=3ddc97)
+![OpenStack](https://img.shields.io/badge/OpenStack-111917?style=flat-square&logo=openstack&logoColor=3ddc97)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111917?style=flat-square&logo=googlecloud&logoColor=3ddc97)
+![Nginx](https://img.shields.io/badge/Nginx-111917?style=flat-square&logo=nginx&logoColor=3ddc97)
+![Unity](https://img.shields.io/badge/Unity-111917?style=flat-square&logo=unity&logoColor=3ddc97)
+
+## $ education
 
 - **MSc Bioinformatics**, FCUP (in progress)
 - **BSc Computer Science**: algorithms, machine learning, AI, computability and complexity, large-scale data science, decision support methods
-
-## 🌱 Currently learning
-
-Bioinformatics and molecular dynamics, from simulating proteins to analysing biological data at scale.
-
-## 🛠️ Tech stack
-
-**Languages**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Web**<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Terminal and systems**<br>
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Bioinformatics**<br>
-![VMD](https://img.shields.io/badge/VMD-0f6b63?style=for-the-badge)
-![AMBER](https://img.shields.io/badge/AMBER-2f5fa8?style=for-the-badge)
-![Protein Data Bank](https://img.shields.io/badge/Protein_Data_Bank-b8325a?style=for-the-badge)
-
-**Cloud, databases, tools and engines**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-## 📫 Contact
-
-📍 Porto, Portugal · [rodrimcoelho@gmail.com](mailto:rodrimcoelho@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Cyber--Dragon--18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyber-Dragon-18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rodrigo-coelho-8b5222277/)
-[![Email](https://img.shields.io/badge/Email-rodrimcoelho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrimcoelho@gmail.com)
+- **Currently learning:** bioinformatics and molecular dynamics, from simulating proteins to analysing biological data at scale
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2f5fa8,100:0f6b63&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3ddc97,100:0a0e0d&height=90&section=footer)
 
 </div>
