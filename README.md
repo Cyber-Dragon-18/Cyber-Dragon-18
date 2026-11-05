@@ -19,7 +19,8 @@ Computer science graduate, now doing a master's in **bioinformatics** at the [Un
 |---|---|---|
 | [**Logistics App for AEFCUP**](https://github.com/Cyber-Dragon-18/Logistica-AEFCUP) | Logistics management app: requests, shifts and attendance | Go, PostgreSQL |
 | [**Mychorrhiza**](https://github.com/Cyber-Dragon-18/Mychorrhiza) | 2D platformer inspired by Hollow Knight with an earth theme | Unity, C# |
-| **GridLock** | Self-hosted cloud platform built from scratch on OpenStack: six Flask microservices (auth, storage, data normalization, databases, containers, compute) with a web dashboard | Python, Flask, OpenStack, Docker, GCP |
+| [**GridLock**](https://github.com/Cyber-Dragon-18/GridLock.git) | Self-hosted cloud platform built from scratch on OpenStack: six Flask microservices (auth, storage, data normalization, databases, containers, compute) with a web dashboard | Python, Flask, OpenStack, Docker, GCP |
+| [**RallyPaper**](https://github.com/Cyber-Dragon-18/RallyPaper.git) | App for support of the activity, for points distribution | Go, PostgreSQL | 
 | **Smart bookshelf** *(in development)* | Catalogues my books and connects to hardware on the shelf | Go, PostgreSQL |
 
 
